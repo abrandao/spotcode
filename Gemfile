@@ -27,7 +27,9 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+# Flexible authentication solution for Rails with Warden
 gem 'devise', '~> 4.5.0'
+# Add a service worker and a manifest to your app, for it to be recognized as a PWA and accessed without a network connection
 gem 'pwa', '~> 4.0.5'
 
 # Use ActiveStorage variant
